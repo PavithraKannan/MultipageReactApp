@@ -10,8 +10,9 @@ function App() {
   useEffect(() => {
     const fetchQuote = async () => {
       try {
-        const response = await axios.get('https://api.breakingbadquotes.xyz/v1/quotes/5');
-        setQuote(response.data[0].quote);
+        // const response = await axios.get('https://api.breakingbadquotes.xyz/v1/quotes/5');
+        // setQuote(response.data[0].quote);
+        console.log("welcome");
       } catch (error) {
         console.error(error);
       }
