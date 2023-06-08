@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MultipageReactApp.git/static/css/main.e6c13ad2.css",
+    "main.js": "/MultipageReactApp.git/static/js/main.15112556.js",
+    "static/js/787.069f026b.chunk.js": "/MultipageReactApp.git/static/js/787.069f026b.chunk.js",
+    "index.html": "/MultipageReactApp.git/index.html",
+    "main.e6c13ad2.css.map": "/MultipageReactApp.git/static/css/main.e6c13ad2.css.map",
+    "main.15112556.js.map": "/MultipageReactApp.git/static/js/main.15112556.js.map",
+    "787.069f026b.chunk.js.map": "/MultipageReactApp.git/static/js/787.069f026b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15112556.js"
+  ]
+}
